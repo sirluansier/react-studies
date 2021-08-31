@@ -31,4 +31,4 @@ Concepts applied in the project:
 - State Hook
 - onClick event
 
-![random number demo](C:\Users\luan_\Documents\PROJETOS-CURSOS\REACT\react-studies\screenshots\random_number.gif)
+![random number demo](.\screenshots\random_number.gif)
