@@ -31,4 +31,26 @@ Concepts applied in the project:
 - State Hook
 - onClick event
 
-![random number demo](C:\Users\luan_\Documents\PROJETOS-CURSOS\REACT\react-studies\screenshots\random_number.gif)
+![random number demo](./screenshots/random_number.gif)
+
+
+
+## routes
+
+
+
+### Library react-router-dom
+
+
+
+Use the library react-router-dom to create the routes for a SPA.
+
+
+
+Concepts applied in the project:
+
+- Components
+- react-router-dom
+
+![routes demo](./screenshots/route.gif)
+
