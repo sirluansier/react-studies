@@ -68,3 +68,19 @@ Concepts applied in the project:
 - Use **props**
 
 ![props project screenshot](./screenshots/props.png)
+
+## props-in-tags
+
+
+
+### Reuse components with props
+
+In a project created in React, it is common to create and reuse a component. Through props we can insert tags and components inside another component.
+
+Concepts applied in the project:
+
+- Create components (import and export)
+- Reuse components
+- Use **props.children**
+
+![props-in-tags project screenshot](./screenshots/props-in-tags.gif)
