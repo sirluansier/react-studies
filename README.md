@@ -53,3 +53,18 @@ Concepts applied in the project:
 
 ![routes demo](./screenshots/route.gif)
 
+
+
+## props
+
+
+
+### Reuse components with props
+
+Concepts applied in the project:
+
+- Create components (import and export)
+- Reuse components
+- Use **props**
+
+![props project screenshot](./screenshots/props.png)
