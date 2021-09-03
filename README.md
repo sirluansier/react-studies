@@ -32,8 +32,6 @@ Concepts applied in the project:
 - onClick event
 
 ![random number demo](./screenshots/random_number.gif)
-<<<<<<< HEAD
-
 
 
 ## routes
@@ -55,5 +53,3 @@ Concepts applied in the project:
 
 ![routes demo](./screenshots/route.gif)
 
-=======
->>>>>>> 1bcae38c2b7c80d0a9068b934a46f27b5da1e0dc
